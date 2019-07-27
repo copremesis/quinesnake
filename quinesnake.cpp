@@ -1,6 +1,6 @@
 /*bin/ls>/dev/null;sed -n 's/.*.\/\*\(.*\)../\1/p' $0|I=$0 sh;exit;*/std::map<I,
-I>m={{97,1},{'w',/*echo g++ -std=c++11 -oo $I -lcurses -DI=int -DF=if -DK=ret\*/
-2},{'d',3}};I/*urn -includectime,curses.h,iostream,map,unistd.h|sed s/,/\ -in\*/
+I>m={{104,1},{107,/*echo g++ -std=c++11 -oo $I -lcurses -DI=int -DF=if -DK=ret\*/
+2},{'l',3}};I/*urn -includectime,curses.h,iostream,map,unistd.h|sed s/,/\ -in\*/
 w=80,h=28,x=2,y=2,a=2,b=0,d,e,z=768;std::wstring/*clude/g|sh;./o</dev/tty;exit*/
 s=LR"x(/*bin/ls>/dev/null;sed -n 's/.*.\/\*\(.*\)../\1/p' $0|I=$0 sh;exit;*/std:
 :map<I,I>m={{97,1},{'w',/*echo g++ -std=c++11 -oo $I -lcurses -DI=int -DF=if -DK
